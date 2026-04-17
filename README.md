@@ -1,4 +1,5 @@
 Features
+
  Real-time intrusion detection
  Machine Learning-based anomaly detection
  Interactive dashboard with charts
@@ -6,12 +7,16 @@ Features
  Network traffic monitoring
  Fast UI with React + Vite
  Tech Stack
+ 
  Frontend
+ 
 React.js
 Tailwind CSS
 Vite
 Recharts
+
 Backend
+
 Python (Flask)
  Machine Learning
 Scikit-learn
